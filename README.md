@@ -17,17 +17,25 @@ LLM agents are AI systems that utilize large language models (LLMs) to perform t
 - **Observation:** The agent observes the results of the actions. 
 - **Iteration:** The agent revises its approach based on the observation and continues until the goal is achieved. 
 
-# Agents
+# Courses
+## Agents
 tbd
 
-# MCP
+## MCP
 tbd
 
-# ACP
+## ACP
 tbd
 
-# A2A
+## A2A
 tbd
 
-# Resources 
-tbd
+# Resources
+- LLM Agents: https://www.promptingguide.ai/research/llm-agents
+- What is an LLM Agent and how does it work?: https://medium.com/@aydinKerem/what-is-an-llm-agent-and-how-does-it-work-1d4d9e4381ca
+- What is an AI agent?: https://blog.langchain.dev/what-is-an-agent/
+- Introduction to LLM Agents: https://developer.nvidia.com/blog/introduction-to-llm-agents/
+- LLM agents: The ultimate guide 2025: https://www.superannotate.com/blog/llm-agents
+- Complete Guide to LLM Agents (2025): https://botpress.com/blog/llm-agents
+- AI Agentes Fundamentals in 21 minutes: https://youtu.be/qU3fmidNbJE?si=-QwqCHisHmPyEhwE
+- Building AI Agentes in 44 minutes: https://youtu.be/_Udb5NC6vTI?si=1F-RTrrfMLeGfSVJ
