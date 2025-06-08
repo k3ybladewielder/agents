@@ -8,7 +8,14 @@ LLM agents are AI systems that utilize large language models (LLMs) to perform t
 - **Memory and Context:** They can remember past interactions and use that information to tailor their responses. 
 - **Autonomy:** They can operate independently, making decisions and executing actions without constant human input. 
 - **Tool Use:** They can interact with external tools and APIs to access information and perform actions. 
-- **Looping Process:** They evaluate a task, decide what to do next, execute actions, observe the result, and continue until the goal is achieved. 
+- **Looping Process:** They evaluate a task, decide what to do next, execute actions, observe the result, and continue until the goal is achieved.
+
+## How they work:
+- **Prompting:** A user provides a prompt (instruction, query, or context) to the agent. 
+- **Planning:** The agent's planner breaks down the goal into smaller steps. 
+- **Execution:** The agent's execution module interacts with tools or APIs to perform actions. 
+- **Observation:** The agent observes the results of the actions. 
+- **Iteration:** The agent revises its approach based on the observation and continues until the goal is achieved. 
 
 # Agents
 tbd
